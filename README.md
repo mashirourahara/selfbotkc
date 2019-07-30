@@ -29,13 +29,13 @@ ketik
 - python -m pip install -r requirements.txt
 - git clone https://github.com/mashirourahara/selfbotkc.git
 - cd selfbotkc
-- python3 kci.py
+- python3 sh.py
 
 setelah berhasil login, buka kembali termux masukan mid di dalam file bot
 Caranya
 Termuk
 - cd selfbotkc
-- nano kci.py
+- nano sh.py
 - masukan authToken & mid akun line (cek video)
 
 lalu save
@@ -49,7 +49,7 @@ Jalankan ulang bot kalian! ^_^
 untuk menjalankan bot cukup
 Buka termux
 - cd selfbotkc
-- python3 kci.py
+- python3 sh.py
 
 
 
