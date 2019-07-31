@@ -1,3 +1,5 @@
+pip
+akad
 bs4
 rsa
 gtts
@@ -6,3 +8,9 @@ thrift
 requests
 googletrans
 humanfriendly
+wikipedia
+youtube_dl
+beautifulsoup
+pafy
+goslate
+tweepy
