@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 #import DRAGON
-from DRAGON import *
+#from DRAGON import *
 from dkbot.ttypes import *
 from thrift.unverting import *
 from thrift.TMultiplexedProcessor import *
