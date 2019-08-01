@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*- 
-import DRAGON
+#import DRAGON
 from DRAGON import *
 from dkbot.ttypes import *
 from thrift.unverting import *
